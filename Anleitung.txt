@@ -1,0 +1,11 @@
+Um Last Chance zu starten:
+  
+- Den Asset.Ordner herunterladen
+    - ein Unity-Projekt mit dem 2D-Core in der Editor Version 2021.3.26f1 erstellen
+    - Das Projekt schließen
+    - Den Ordner des Projektes ausrufen und den Asset-Ordner durch den heruntergeladenen Ordner ersetzen
+    - Projekt starten
+    - File/Build-Settings aufrufen und die Scenen in das große leere Feld ziehen
+    - starten entweder über
+        - Playpfeil, wenn man in der MainMenu Scene ist
+        - Builden, dabei aber darauf achten, dass die Main Menu Scene ganz oben steht in den Build Settings
